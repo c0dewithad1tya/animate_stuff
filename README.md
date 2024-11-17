@@ -4,5 +4,6 @@ Created animated videos using manim for different use cases such as Sequence Dia
 To execute - 
 1. pip install manim
 2. manim -pqh <file_name> <class_name>
-    use option -h for High Quality Video
+
+Note - Use option -h for High Quality Video
                -l for Low Quality Video
